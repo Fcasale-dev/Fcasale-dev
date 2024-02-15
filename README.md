@@ -12,3 +12,6 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
  
+![snake gif](https://github.com/Felipe020507/Felipe020507/blob/output/github-contribution-grid-snake.gif)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Felipe020507&repo=teste&theme=react)](https://github.com/Felipe020507/Felipe020507)
