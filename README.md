@@ -47,6 +47,5 @@ Framework
 
 
 
-<br>
-![snake gif](https://github.com/Fcasale-dev/Fcasale-dev/blob/output/github-snake-dark.svg)
+
 
