@@ -9,8 +9,8 @@
 
 
 
-<br>
-Languages  
+
+## Languages  
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,8 +21,8 @@ Languages
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<br>
-Tools  
+
+## Tools  
 <div style="display: inline_block"><br>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="Eclipse" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
@@ -30,14 +30,14 @@ Tools
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div>
 
-<br>
-Database  
+
+## Database  
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </div>
 
-<br>
-Framework  
+
+## Framework  
 <div style="display: inline_block"><br>
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
 </div>
@@ -46,7 +46,12 @@ Framework
 <br>
 
 
-Get in touch or follow me on the networks below!
+## Get in touch or follow me on the networks below!
+
+<div>
+<a href="https://www.linkedin.com/in/felipe-casale-589340158/" target="_bank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  
+</div>
 
 
 
