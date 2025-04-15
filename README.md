@@ -30,13 +30,13 @@ Tools
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 </div>
 
-<br><br>
+<br>
 Database  
 <div style="display: inline_block"><br>
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 </div>
 
-<br><br>
+<br>
 Framework  
 <div style="display: inline_block"><br>
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
